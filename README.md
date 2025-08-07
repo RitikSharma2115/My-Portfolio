@@ -48,7 +48,3 @@ Feel free to connect with me on:
 
 ---
 
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
