@@ -15,7 +15,7 @@ export default function Projects() {
       title: "Doctor's Appoint+",
       description:
         "Doctor's Appoint+ is a role-based appointment booking app for patients, doctors, and admins with real-time scheduling and management features.",
-      previewLink: "/videos/Doctor'sAppoint+ Preview.mp4",
+      previewLink: "/videos/DoctorsAppoint_Preview.mp4",
       codeLink: "https://github.com/RitikSharma2115/DoctorsAppoint",
       techStack: ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
       imageUrl: "/images/appointment-booking.png",
