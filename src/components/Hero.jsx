@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div
       id="home"
-      className="flex flex-col items-center justify-center min-h-screen px-4 pt-0 sm:pt-24 text-center"
+      className="flex flex-col items-center justify-center min-h-screen px-4 pt-22 sm:pt-24 text-center"
     >
       {/* Profile Image */}
       <img
